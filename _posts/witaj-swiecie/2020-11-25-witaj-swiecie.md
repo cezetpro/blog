@@ -8,7 +8,7 @@ Blog powstal w celu zamieszczania informacji ze świata programowania i rozwoju 
 Będę starał się zamieszczać informacje o poznanych technologiach i ciekawostkach, które kiedyś mogą się przydać w pracy programisty.
 
 {% highlight java %}
-pivate static hello(String name) {
+public static void hello(String name) {
   System.out.println("Witaj " + name);
 }
 
