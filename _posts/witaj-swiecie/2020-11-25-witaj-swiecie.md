@@ -6,8 +6,7 @@ categories: programowanie
 description: Blog powstal w celu zamieszczania informacji ze świata programowania i rozwoju osobistego.
 tags: [programowanie, kod]
 ---
-Blog powstal w celu zamieszczania informacji ze świata programowania i rozwoju osobistego.
-Będę starał się zamieszczać informacje o poznanych technologiach i ciekawostkach, które kiedyś mogą się przydać w pracy programisty.
+Na dobry początek warto się przywitać😉
 
 {% highlight java %}
 public static void hello(String name) {
@@ -16,5 +15,5 @@ public static void hello(String name) {
 
 hello("Mistrzu");
 
-//Wypisze 'Witaj Mistrzu' w konsoli.
+//Rezultat: 'Witaj Mistrzu' w konsoli.
 {% endhighlight %}
