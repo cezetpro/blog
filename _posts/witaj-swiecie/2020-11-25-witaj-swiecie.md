@@ -8,13 +8,13 @@ tags: [programowanie, java]
 ---
 Na dobry początek warto się przywitać😉
 
-Zróbmy to za pomocą prostej, publicznie dostępnej(w danym projekcie), nie zwracającacej żadnego typu(void), statycznej(bez konieczności tworzenia obiektu) funkcji witającej:
+Zróbmy to za pomocą prostej, publicznie dostępnej (w danym projekcie), nie zwracającej żadnego typu (void), statycznej (bez konieczności tworzenia obiektu) funkcji witającej:
 {% highlight java %}
-public static void hello(String name) {
-  System.out.println("Witaj " + name);
-}
+  public static void hello(String name) {
+    System.out.println("Witaj " + name);
+  }
 
-hello("Mistrzu");
+  hello("Mistrzu");
 
-//Rezultat: 'Witaj Mistrzu' w konsoli.
+  //Rezultat: 'Witaj Mistrzu' w konsoli.
 {% endhighlight %}
