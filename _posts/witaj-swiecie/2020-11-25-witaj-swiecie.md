@@ -2,7 +2,7 @@
 layout: post
 title:  "Witaj Świecie!"
 date:   2020-11-25 23:23:23 +0100
-categories: programowanie
+categories: [programowanie, java]
 description: Blog powstal w celu zamieszczania informacji ze świata programowania i rozwoju osobistego.
 tags: [programowanie, java]
 ---
