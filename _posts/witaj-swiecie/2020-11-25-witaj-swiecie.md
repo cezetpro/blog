@@ -6,9 +6,9 @@ categories: [programowanie, java]
 description: Blog powstal w celu zamieszczania informacji ze świata programowania i rozwoju osobistego.
 tags: [programowanie, java]
 ---
-Na dobry początek warto się przywitać😉
+&emsp; Na dobry początek warto się przywitać😉
 
-Zróbmy to za pomocą prostej, publicznie dostępnej (w danym projekcie), nie zwracającej żadnego typu (void), statycznej (bez konieczności tworzenia obiektu) funkcji witającej:
+&emsp; Zróbmy to za pomocą prostej, publicznie dostępnej (w danym projekcie), nie zwracającej żadnego typu (void), statycznej (bez konieczności tworzenia obiektu) funkcji witającej:
 {% highlight java %}
   public static void hello(String name) {
     System.out.println("Witaj " + name);
