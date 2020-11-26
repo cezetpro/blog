@@ -6,17 +6,18 @@ excerpt: Witajcie, jestem programistą i fascynuje się rozwojem w dziedzinie pr
 comments: false
 ---
 
-Hej!👋
+<center>Hej! 👋</center>
 
-Jak już zdążyłeś zauważyć po stronie głównej - nazywam się Arkadiusz Czarnowski i jestem programistą. Fascynuje się rozwojem w dziedzinie programowania i rozwoju osobistego. 
+&emsp; Jak już zdążyłeś zauważyć po stronie głównej - nazywam się <b>Arkadiusz Czarnowski</b> i jestem pozytywnie zaprogramowanym <b>programistą</b>. Fascynuje się rozwojem głównie w dziedzinie programowania i rozwoju osobistego.
 
-Blog powstał w celu przelania myśli i zdobytej wiedzy, możliwie najprostszym językiem.
-Głównie znajdziesz tu treści związane z językiem Java i technologiami pokrewnymi oraz kwestie związane z pracą programisty. 
-Pojawią się również ciekawostki, które mogą mieć pozytywny wpływ i poprawić jakość samopoczucia, pracy i zdrowia. Postaram się, by było możliwie krótko i treściwie - samo "mięso"😉
+&emsp; Blog powstał w celu przelania myśli i zdobytej wiedzy, możliwie najprostszym językiem.
+Głównie znajdziesz tu treści związane z językiem Java i technologiami pokrewnymi oraz kwestie związane z pracą programisty.
 
-Grunt to rozwijać się i poznawać nowe możliwości❗
+&emsp; Pojawią się również ciekawostki, które mogą mieć pozytywny wpływ na jakość samopoczucia, pracy i zdrowia. Postaram się, by było możliwie krótko i treściwie - tak zawane samo "mięso" 😉
 
-Jest pięknie!😎
+<center>Grunt to rozwijać się, popełniać błędy, wyciągać wnioski i poznawać nowe możliwości❗</center>
+
+<center>Jest pięknie!😎</center>
 
 **Jeżeli masz pytania, zapraszam do kontaktu ✉️**
 - {{ site.author.email }}
