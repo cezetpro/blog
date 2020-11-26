@@ -8,11 +8,13 @@ comments: false
 
 Hej!👋
 
-Jak już zdążyłeś zauważyć po stronie głównej - nazywam się Arkadiusz Czarnowski i jestem programistą. Fascynuje się rozwojem zarówno w dziedzinie programowania jak i rozwoju osobistego. 
+Jak już zdążyłeś zauważyć po stronie głównej - nazywam się Arkadiusz Czarnowski i jestem programistą. Fascynuje się rozwojem w dziedzinie programowania i rozwoju osobistego. 
 
-Nie obiecuję, że na tym blogu znajdziesz same wspaniałe i ciekawe rzeczy ;) Grunt to rozwijać się i poznawać nowe możliwości.
+Blog powstał w celu przelania myśli i zdobytej wiedzy. Głównie znajdziesz tu treści związane z językiem Java i technologiami pokrewnymi oraz kwestie związane z pracą programisty Znajdą tutaj swoje miejsce również ciekawostki, które mogą mieć pozytywny wpływ i poprawić jakość samopoczucia, pracy i zdrowia. Postaram się, by było możliwie krótko i treściwie - samo "mięso"😉
 
-Jest pięknie!
+Grunt to rozwijać się i poznawać nowe możliwości.
+
+Jest pięknie!😎
 
 **Jeżeli masz pytania, zapraszam do kontaktu ✉️**
 - {{ site.author.email }}
