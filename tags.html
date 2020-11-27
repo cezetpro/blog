@@ -6,7 +6,6 @@ excerpt: Posortowane artykuły względem tagów
 ---
 
 <div class="archive-tags">
-  <a class="tag-item" href="#">wszystko</a>
   {%- for tag in site.tags -%} 
     {% capture name %}{{ tag | first }}{% endcapture %}
     <a class="tag-item" href="#{{name}}">{{ name }}</a> 
