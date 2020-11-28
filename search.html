@@ -1,0 +1,79 @@
+---
+title: Szukaj | Filtruj po tagu
+permalink: /search/
+layout: page
+excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
+---
+
+<div class="archive-tags">
+  {%- for tag in site.tags -%} 
+    {% capture name %}{{ tag | first }}{% endcapture %}
+    <a id="{{ name }}-tag-item" class="tag-item" onclick="filter('{{ name }}'); return false;">{{ name }}</a> 
+  {%- endfor -%}
+</div>
+
+<br>
+
+<div class="search-article"> 
+  <label for="search-input" aria-hidden="true"> 
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+      <circle cx="11" cy="11" r="8"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg> 
+  </label> 
+  <input type="search" id="search-input" placeholder="Wyszukaj artykuł po nazwie" aria-label="wyszukaj"> 
+</div>
+<ul id="search-results"></ul>
+
+<script src="/assets/js/search.min.js"></script>
+<script>
+  let tagsArray = [];
+  const urlParams = new URLSearchParams(window.location.search);
+  const pickedTag = urlParams.get('tag');
+  let searchInput = document.getElementById('search-input');
+  async function filter(tag) {
+      setActiveTag(tag);
+      var event = new Event("input", {
+          bubbles: true,
+          cancelable: true,
+      });
+      searchInput.dispatchEvent(event);
+  };
+
+  function setActiveTag(tag) {
+    if (tagsArray.includes(tag)) {
+        const indexofTag = tagsArray.indexOf(tag);
+        document.getElementById(tag + '-tag-item').classList.remove('picked');
+        tagsArray.splice(indexofTag, 1);
+    } else {
+        document.getElementById(tag + '-tag-item').classList.add('picked');
+        tagsArray.push(tag);
+    }
+  };
+
+  function arrayRemove(arr, value) { 
+    return arr.filter(function(ele){ 
+        return ele != value; 
+    }); 
+  }
+
+  const initTags = () => {
+      var items = document.getElementsByClassName('tag-item');
+      tagsArray = [];
+  };
+
+  function checkIfTagsMatch(arr1, arr2) {
+      return arr1.every(item => arr2.includes(item));
+  }
+  var sjs = new SimpleJekyllSearch({
+      searchInput: searchInput,
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/search.json',
+      searchResultTemplate: '<li class="result"><a href="https://cezetpro.netlify.app{url}">{title}</a></li>',
+      limit: 50,
+      tagsArray: tagsArray,
+      noResultsText: 'Brak wyników.',
+      fuzzy: false
+  });
+  initTags();
+</script>
