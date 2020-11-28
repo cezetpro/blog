@@ -23,6 +23,7 @@ excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
   </label> 
   <input type="search" id="search-input" placeholder="Wyszukaj artykuł po nazwie" aria-label="wyszukaj"> 
 </div>
+
 <ul id="search-results"></ul>
 
 <script src="/assets/js/search.min.js"></script>
@@ -51,12 +52,6 @@ excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
     }
   };
 
-  function arrayRemove(arr, value) { 
-    return arr.filter(function(ele){ 
-        return ele != value; 
-    }); 
-  }
-
   const initTags = () => {
       var items = document.getElementsByClassName('tag-item');
       tagsArray = [];
@@ -65,6 +60,7 @@ excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
   function checkIfTagsMatch(arr1, arr2) {
       return arr1.every(item => arr2.includes(item));
   }
+
   var sjs = new SimpleJekyllSearch({
       searchInput: searchInput,
       resultsContainer: document.getElementById('search-results'),
@@ -75,5 +71,6 @@ excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
       noResultsText: 'Brak wyników.',
       fuzzy: false
   });
+  
   initTags();
 </script>
