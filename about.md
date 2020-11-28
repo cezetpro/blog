@@ -2,13 +2,14 @@
 title: O mnie
 permalink: /about/
 layout: page
-excerpt: Witajcie, jestem programistą i fascynuje się rozwojem w dziedzinie programowania i rozwoju osobistego.
+excerpt: Witajcie, jestem programistą i fascynuje się dziedziną programowania, rozwojem osobistym oraz kształtowaniem sylwetki 
 comments: false
 ---
 
 <center>Hej! 👋</center>
 
-&emsp; Jak już zdążyłeś zauważyć po stronie głównej - nazywam się <b>Arkadiusz Czarnowski</b> i jestem pozytywnie zaprogramowanym <b>programistą</b>. Fascynuje się rozwojem głównie w dziedzinie programowania i rozwoju osobistego.
+&emsp; Nazywam się <b>Arkadiusz Czarnowski</b>, jestem <b>pozytywnie zaprogramowanym programistą</b>. 
+Fascynuje się dziedziną programowania, rozwojem osobistym oraz kształtowaniem sylwetki (trening siłowy, kalistenika, odżywianie, suplementacja).
 
 &emsp; Blog powstał w celu przelania myśli i zdobytej wiedzy, możliwie najprostszym językiem.
 Głównie znajdziesz tu treści związane z językiem Java i technologiami pokrewnymi oraz kwestie związane z pracą programisty.
@@ -17,8 +18,8 @@ Głównie znajdziesz tu treści związane z językiem Java i technologiami pokre
 
 <center>Grunt to rozwijać się, popełniać błędy, wyciągać wnioski i poznawać nowe możliwości❗</center>
 
-<center>Jest pięknie!😎</center>
-
-**Jeżeli masz pytania, zapraszam do kontaktu ✉️**
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+<strong><center>Jest pięknie!😎</center></strong>
+<br>
+**Masz pytania? Zpraszam do kontaktu**<br>
+✉️ <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> <br>
+👉🏼 <a href="https://linkedin.com/in/czarnowskiarkadiusz">LinkedIn</a>
