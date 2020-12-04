@@ -6,7 +6,7 @@ categories: [programowanie, java, przemyślenia]
 description: Odpowiedź na pytanie dlaczego wybrałem akurat język programowania java i w skrócie moja historia edukacyjna.
 tags: [programowanie, java, przemyślenia]
 ---
-&emsp; Czasami wśród znajomych programistów pojawia się pytanie <b>"Dlaczego akurat Java?</b> Chciałbym w skrócie przybliżyć skąd i dlaczego akurat ten język programowanie spośród wielu innych gości jako główne narzędzie w moim arsenale do tworzenia oprogramowania oraz odpowiem na pytanie czy to był do końca taki świadomy wybór? Enjoy!
+&emsp; Czasami wśród znajomych programistów pojawia się pytanie <b>"Dlaczego akurat Java?"</b>. Chciałbym w skrócie przybliżyć skąd i dlaczego akurat ten język programowanie spośród wielu innych gości jako główne narzędzie w moim arsenale do tworzenia oprogramowania oraz odpowiem na pytanie czy to był do końca taki świadomy wybór? Enjoy!
 
 &emsp; Pierwszą styczność z programowaniem miałem w <b>szkole podstawowej</b>, zapewne kojarzysz proste operacje "opóść żółwia", "idź ...", "podnieś żółwia" i wykorzystanie prostych komend czy sekwencji, dzięki którym miał zostać narysowany na ekranie odpowiedni obiekt/kształt (np. kwadrat czy trójkąt). Jak teraz na to patrzę, to jest to banalnie prostę ale jak na tamten czas wcale takie nie było... 
 
