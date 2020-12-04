@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skąd ten pomysł?"
-date:   2020-12-4 15:15:15 +0100
+date:   2020-12-1 6:6:6 +0100
 categories: przemyślenia
 description: Odpowiedź na pytanie skąd wziął się pomysł na utworzneia bloga.
 tags: przemyślenia

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dlaczego Java?"
-date:   2020-12-4 16:16:16 +0100
+date:   2020-12-3 7:7:7 +0100
 categories: [programowanie, java, przemyślenia]
 description: Odpowiedź na pytanie dlaczego wybrałem akurat język programowania java i w skrócie moja historia edukacyjna.
 tags: [programowanie, java, przemyślenia]
