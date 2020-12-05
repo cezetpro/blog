@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pierwsza rozmowa o pracę"
-date:   2020-12-5 9:9:9 +0100
+date:   2020-12-6 9:9:9 +0100
 categories: praca
 description: Pierwsza rozmowa o pracę jako programista na stanowisko Junior Java Developer. Emocje i jak to wyglądało w moim przypadku.
 tags: praca
