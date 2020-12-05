@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Praca inżynierska"
-date:   2020-12-4 8:8:8 +0100
+date:   2020-12-5 8:8:8 +0100
 categories: [programowanie, java, przemyślenia]
 description: Praca inżynierska na studiach informatycznych, jak to wygląda, przygotowania i pierwszy "grubszy" projekt w karierze.
 tags: [programowanie, java, przemyślenia]
