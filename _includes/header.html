@@ -165,6 +165,9 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-0BRWR4LLCL"></script>
   <script>
     if (location.hostname !== "localhost") {
+      document.cookie = "SameSite=None, Secure";
+      alert( document.cookie );
+     
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
