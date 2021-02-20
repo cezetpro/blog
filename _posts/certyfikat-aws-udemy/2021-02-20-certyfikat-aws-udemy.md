@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "W drodze do certyfikacji AWS Solutions Architect Assiociate #1"
+date:   2021-02-20 9:9:9 +0100
+categories: [aws, certyfikat, architekt]
+description: Przygotowania do certyfikatu część pierwsza, a oto zaliczony kolejny, mały krok.
+tags: [aws, certyfikat, architekt]
+---
+<b>&emsp; 
+    Jakiś czas temu na LinkedIn wśród swojej sieci zadałem pytanie, czy ktoś przygotowuje lub przygotowywał się do certyfikacji na AWS Solutions Architect Associate. To pytanie nie pojawiło się bez powodu, ponieważ byłem i w sumie nadal jestem w trakcie tej drogi. Doświadczenia znajomych są na wagę złota, ponieważ każda opinia może wnieść sporą dawkę wiedzy i ukierunkować na konkretniejsze działania by nie tracić czasu.
+</b>
+
+&emsp; Po konsultacji z kilkoma osobami, pierwszym krokiem było zapoznanie się z ogólnymi informacjami, czym w ogóle jest AWS, jak to działa, jakie są możliwości i analogiczne rozwiązania na rynku (jak np. GCP czy Azure). To podejście zapewniło mi podstawę, teraz wiem już z czym mam do czynienia i śmiało mogę działać dalej, zagłębiając się w szczegóły.
+
+&emsp; Kolejnym krokiem było roznanie w temacie kursów i zakup pierwszego z nich, poleconego przez wiele osób. Stale inwestuję w swój rozwój, więc koszt kilkuset złotych na kurs on-line uznałem za dobrą inwestycję. Dodatkowo wykupiłem kilka przykładowych egzaminów. Także pierwsze kroki już za mną, kluczowe informacje opanowane, już znane mi są możliwości AWS'a i zakres opłacalności rozwiązań. Mogę się też pochwalić pierwszym, namacalnym potwierdzeniem działań w formie certyfikatu ukończenia kursu, a oto i ono:
+
+<figure>
+<img src="/certyfikat-aws-udemy/cert_aws_udemy.jpg" alt="certyfikat aws udemy">
+<figcaption>Certyfikat AWS Solutions Architect Associate Udemy</figcaption>
+</figure>
+
+&emsp; Ale to nie koniec nauki, czas na wnikanie w szczegóły dokumentacji FAQ o głównych serwisach, które są dostępne na stronie AWS oraz przerabianie przykładowych egzaminów, by wyczuć czego mniej-więcej oczekują. Im bardziej w głąb, tym swobodniej się poruszam po temacie, początkowo ogromna ilość skrótów (nazw serwisów) przyprawiała wręcz o ból głowy ale teraz już jest ok ;) Działam więc dalej!
+<b>Jest pięknie!</b>
