@@ -14,7 +14,7 @@ Fascynuje się dziedziną programowania, rozwojem osobistym oraz kształtowaniem
 &emsp; Blog powstał w celu przelania myśli i zdobytej wiedzy, możliwie najprostszym językiem.
 Głównie znajdziesz tu treści związane z językiem Java i technologiami pokrewnymi oraz kwestie związane z pracą programisty.
 
-&emsp; Pojawią się również ciekawostki, które mogą mieć pozytywny wpływ na jakość samopoczucia, pracy i zdrowia. Postaram się, by było możliwie krótko i treściwie - tak zawane samo "mięso" 😉
+&emsp; Pojawią się również ciekawostki, które mogą mieć pozytywny wpływ na jakość samopoczucia, pracy i zdrowia. Postaram się, by było możliwie krótko i treściwie - tak zwane samo "mięso" 😉
 
 <center>Grunt to rozwijać się, popełniać błędy, wyciągać wnioski i poznawać nowe możliwości❗</center>
 
