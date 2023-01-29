@@ -168,9 +168,11 @@
       document.cookie = "SameSite=None";
            
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag(){
+        dataLayer.push(arguments);
+      }
+      
       gtag('js', new Date());
-  
       gtag('config', 'G-0BRWR4LLCL');
   
       (function(h,o,t,j,a,r){

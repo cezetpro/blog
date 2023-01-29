@@ -1,7 +1,7 @@
 # Site settings
 title: CezetPRO Blog # site title
 description: >- # site description
-  Blog poświęcony nauce programowania i rozwojowi osobistemu.
+   Blog devoted to edcuation and personal development.Blog poświęcony nauce programowania i rozwojowi osobistemu.
 lang: pl # default lang
 timezone: Europe/Warsaw # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Arkadiusz Czarnowski - CezetPRO # author name
   bio: >- # tell to the world
-    Programowanie - Nauka - Rozwój Osobisty
+    Programming - Education - Personal development
   username: cezetpro # general username
   github: cezetpro # github username
   twitter: twitter_username # twitter username

@@ -1,8 +1,8 @@
 ---
-title: Szukaj | Filtruj po tagu
+title: Search | Filter by tag
 permalink: /search/
 layout: page
-excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
+excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach. Searching articles with tags.
 ---
 
 <div class="archive-tags">
@@ -21,7 +21,7 @@ excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
       <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
     </svg> 
   </label> 
-  <input type="search" id="search-input" placeholder="Wyszukaj artykuł po nazwie" aria-label="wyszukaj"> 
+  <input type="search" id="search-input" placeholder="Search article by name" aria-label="wyszukaj"> 
 </div>
 
 <ul id="search-results"></ul>
@@ -68,7 +68,7 @@ excerpt: Wyszukiwanie artykułow z filtrowaniem po tagach.
       searchResultTemplate: '<li class="result"><a href="https://cezetpro.netlify.app{url}">{title}</a></li>',
       limit: 50,
       tagsArray: tagsArray,
-      noResultsText: 'Brak wyników.',
+      noResultsText: 'No results.',
       fuzzy: false
   });
   
